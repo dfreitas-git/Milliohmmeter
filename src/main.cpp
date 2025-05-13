@@ -15,7 +15,7 @@
 
 const float gainMultiplier = 0.1250F;  // For GAIN_ONE setting
 const float calConstant = 1.000F;      // Calibrate againist known resistor
-const float batteryLowLimit = 3.0F;    // Limit before we display "low battery"
+const float batteryLowLimit = 3.4F;    // Limit before we display "low battery"
 
 #define BATTERY_MONITOR ADC2
  
@@ -92,7 +92,7 @@ void loop() {
 
   // Check the battery
   long vcc = readVcc();
-  float voltage = vcc / 1000.0;
+  float voltage = vcc / 1000.0;  // In volts
 
   if (voltage < batteryLowLimit) {
     lcd.setCursor(0, 1); 
