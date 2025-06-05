@@ -6,9 +6,9 @@ dlf  5/7/2025
 
 ### Schematics
 ![Alt text](./Milliohmmeter_Schematic.png "Milliohmmeter Schematic")
-![Alt text](./Milliohmmeter_Wiring.jpg "Milliohmmeter Wiring")
 
 
 ### Build Pictures
-![Alt text](./Milliohmmeter1.jpg "Build Picture")
+![Alt text](./Milliohmmeter_Wiring.jpg "Milliohmmeter Wiring")
+![Alt text](./Milliohmmeter_Case.png "Case Picture")
 
