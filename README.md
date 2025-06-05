@@ -10,5 +10,6 @@ dlf  5/7/2025
 
 ### Build Pictures
 ![Alt text](./Milliohmmeter_Wiring.jpg "Milliohmmeter Wiring")
-![Alt text](./Milliohmmeter_Case.png "Case Picture")
+![Alt text](./Milliohmmeter_Case.png "Case")
+![Alt text](./Milliohmmeter_Probes.png "Case with probes")
 
